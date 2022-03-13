@@ -2,7 +2,7 @@
 CONTACT MANAGER APP DESIGNED BY BHARADWAJ
 
 I used HTML, CSS, JAVASCRIPT for desingning this app.
-Initially a new user login into the page by goving his name, email, and password and also he conforms his password.
+Initially a new user login into the page by gIving his name, email, and password and also he conforms his password.
 The hw will redirected to the contacts app 
 
 Here he can store the new contacts by adding their name, email, password 
